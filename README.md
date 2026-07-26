@@ -9,6 +9,14 @@ Word Bank is a reading companion. Track what you want to read, are reading, or h
 
 _iOS — coming soon · Web — coming soon_
 
+## ❤️ Support Word Bank
+
+Word Bank is free, open source, and has no ads — donations keep the app and its self-hosted dictionary server running:
+
+[GitHub Sponsors](https://github.com/sponsors/jensrot) · [Liberapay](https://liberapay.com/jensrot) · [Ko-fi](https://ko-fi.com/jensrot) · [Buy Me a Coffee](https://buymeacoffee.com/jensrot)
+
+<!-- TODO: confirm the Liberapay / Ko-fi / Buy Me a Coffee handles after registering -->
+
 ## 📦 Source code
 
 | Repository | What's inside |
