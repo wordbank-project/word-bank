@@ -33,10 +33,18 @@ Word Bank is free, open source, and has no ads — donations keep the app and it
 - **Make words stick** — save each word with the sentence you found it in and your own notes; write a review and notes per book.
 - **All your words in one place** — the Words List gathers every word from every book; search, filter by part of speech, and sort A–Z, by book, or by most recently added.
 - **Practice what you saved** — flip-through flashcards with per-word "still learning" / "knew it" counters, an optional daily reminder, and a stats screen for what you keep forgetting.
-- **Read in your language** — **English, French and Dutch** are live today, served from our own dictionary instance. The underlying Wiktionary data covers 100+ languages, so a self-hosted instance can serve any of them. Want another language added to the hosted dictionary? [Open an issue](https://github.com/wordbank-project/word-bank/issues/new) and say which one.
+- **Read in your language** — **English, French and Dutch** are live today, served from our own dictionary instance. The underlying Wiktionary data covers 100+ languages, so a self-hosted instance can serve any of them. See [Want another language?](#want-another-language) below.
 - **Analyze a sentence with AI** — paste a sentence you got stuck on and get it explained in plain language, powered by [Groq](https://console.groq.com/).
 - **Private & offline** — no account, no cloud, no tracking; everything is stored on your device.
 - **Dark mode** included.
+
+## Want another language?
+
+**[Open an issue](https://github.com/wordbank-project/word-bank/issues/new) and name the language.** If it has a Wiktionary edition, I'll build it and deploy it to the dictionary server — no app update needed, the new language simply starts working.
+
+Three are live today: English, French and Dutch. Adding one isn't a code change; it's importing that edition's Wiktionary data into the dictionary database and shipping it to the server on DigitalOcean. Kaikki publishes around twenty editions, so most widely-spoken languages are available.
+
+Worth knowing before you ask: an edition describes words *in* that language — the French edition defines words in French. So "French" means French definitions of French words, which is what you want for reading in French, and not a French-to-English translation dictionary.
 
 ## Get started
 
