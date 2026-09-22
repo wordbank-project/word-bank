@@ -54,6 +54,8 @@ Worth knowing before you ask: an edition describes words *in* that language — 
 
 That's it.
 
+> **Tip — an empty field is a suggestion.** Wherever text types itself into an input, pressing the button with the field still empty accepts whatever is showing. It works on book search, the custom-book title (which fills in the author and year to match), the add-a-word field, and the Analyze screen — all AI-generated examples in your chosen language. On the Words List it cycles words you have already saved instead. Handy when you want to try something without having to think of it first.
+
 ## Privacy
 
 - **On-device** — your reading list, words, sentences, and notes are stored locally and work fully offline.
