@@ -40,6 +40,20 @@ Word Bank is free, open source, and has no ads — and it stays that way. There'
 - **Private & offline** — no account, no cloud, no tracking; everything is stored on your device.
 - **Dark mode** included.
 
+## 🌍 Learning a new language?
+
+Word Bank works just as well as a study companion for a language you're learning. Reading real books is one of the best ways to build vocabulary, and Word Bank keeps every new word tied to the book and the sentence where you met it.
+
+- **Definitions in the language itself** — set the dictionary language to the one you're studying (French or Dutch today, English too) and every word is explained in that language, the way a learner's dictionary does it. Good for thinking in the language instead of translating back and forth.
+- **Translate a word when you need to** — each saved word has a tap-to-reveal **Translate to** button for your native language, for when the definition alone doesn't click. It's never shown until you ask, so it doesn't get in the way of learning.
+- **Remember it in context** — save the exact sentence from the book, and add your own example sentence and notes, like a gender, a conjugation, or a false friend to watch out for.
+- **Practice with flashcards** — the Memory tab quizzes you on the words you saved, puts the ones you haven't learned yet first, and shows which words you keep forgetting. An optional daily reminder nudges you to practice every day.
+- **Get stuck sentences explained** — paste a sentence you don't understand into **Analyze a sentence** and the AI explains it in plain language, in the language you choose.
+
+**A simple routine:** pick a book in the language you're learning, save every word that stops you along with its sentence, and do a short flashcard round each day. Over a few books you build a personal vocabulary list made of words you actually met, not a generic word list.
+
+Learning a language that isn't available yet? See below.
+
 ## Want another language?
 
 **[Open an issue](https://github.com/wordbank-project/word-bank/issues/new) and name the language.** If it has a Wiktionary edition, I'll build it and deploy it to the dictionary server — no app update needed, the new language simply starts working.
