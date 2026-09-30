@@ -13,8 +13,7 @@ _Web — [app.wordbankapp.com](https://app.wordbankapp.com) · iOS — coming so
 Word Bank is free, open source, and has no ads — and it stays that way. There's no company behind it, just one developer and a few servers.
 
 **Every donation goes to infrastructure**: the DigitalOcean droplet running the dictionary and word-feed APIs, and the domain behind them — currently about $6/month and $10/year. The AI features run on free tiers for now; that's the part most likely to grow. The app is free during the beta and will never carry ads or trackers, so running costs are all there is to cover.
-
-[GitHub Sponsors](https://github.com/sponsors/jensrot) · [Liberapay](https://liberapay.com/jensrot) · [Ko-fi](https://ko-fi.com/jensrot) · [Buy Me a Coffee](https://buymeacoffee.com/jensrot)
+ [Liberapay](https://liberapay.com/jensrot) · [Ko-fi](https://ko-fi.com/jensrot) ·
 
 <!-- TODO: confirm the Liberapay / Ko-fi / Buy Me a Coffee handles after registering -->
 
