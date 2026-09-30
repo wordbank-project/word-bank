@@ -13,11 +13,13 @@ _Web — [app.wordbankapp.com](https://app.wordbankapp.com) · iOS — coming so
 Word Bank is free, open source, and has no ads — and it stays that way. There's no company behind it, just one developer and a few servers.
 
 **Every donation goes to infrastructure**: the DigitalOcean droplet running the dictionary and word-feed APIs, and the domain behind them — currently about $6/month and $10/year. The AI features run on free tiers for now; that's the part most likely to grow. The app is free during the beta and will never carry ads or trackers, so running costs are all there is to cover.
- [Liberapay](https://liberapay.com/jensrot) [Ko-fi](https://ko-fi.com/jensrot)
 
-<!-- TODO: add github sponsor and buy me a coffee --!>
+* [Liberapay](https://liberapay.com/jensrot) 
+* [Ko-fi](https://ko-fi.com/jensrot)
 
-## 📦 Source code
+<!-- TODO: add github sponsor and buy me a coffee -->
+
+## Source code
 
 | Repository | What's inside |
 | --- | --- |
@@ -39,7 +41,7 @@ Word Bank is free, open source, and has no ads — and it stays that way. There'
 - **Private & offline** — no account, no cloud, no tracking; everything is stored on your device.
 - **Dark mode** included.
 
-## 🌍 Learning a new language?
+## Learning a new language?
 
 Word Bank works just as well as a study companion for a language you're learning. Reading real books is one of the best ways to build vocabulary, and Word Bank keeps every new word tied to the book and the sentence where you met it.
 
@@ -80,7 +82,7 @@ That's it.
 
 ## Architecture
 
-```
+```text
                         ┌──────────────────────────────┐
                         │        word-bank-app         │   Expo / React Native
                         │   Android · web · iOS soon   │   — on-device, offline
